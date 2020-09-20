@@ -1,1 +1,1 @@
-# UCI_MATH_10
+# UCI MATH 10: Introduction 
