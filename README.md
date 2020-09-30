@@ -6,5 +6,5 @@ Math 10 serves as the introductory course in programming and machine learning al
 ## Lecture Notes
 **Lecture** | **Contents**
 ------------| --------------
-1 | Introduction and Walkthrough I: Data Science and Machine Learning
+1 | [Introduction and Walkthrough I: Data Science and Machine Learning](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_1/lecture_1.ipynb)
 2 | Introduction and Walkthrough II: Programming Language
