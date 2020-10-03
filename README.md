@@ -7,7 +7,7 @@ Math 10 serves as the introductory course in programming and machine learning al
 **Lecture** | **Contents**
 ------------| --------------
 1 | [Introduction and Walkthrough I: Data Science and Machine Learning](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_1/lecture_1.ipynb)
-2 | [Introduction and Walkthrough II: Programming Language](https://github.com/cliffzhou92/UCI_MATH_10/tree/master/lecture/lec_2)
+2 | [Introduction and Walkthrough II: Programming Language](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_2/lecture_2.ipynb)
 
 ## Textbooks and References
 There will be NO official textbook for this course. You may find the following references helpful:
