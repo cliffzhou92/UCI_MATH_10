@@ -10,12 +10,17 @@ Math 10 serves as the introductory course in programming and machine learning al
 2 | [Introduction and Walkthrough II: Programming Language](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_2/lecture_2.ipynb)
 3 | [Expressions, Variables and Objects](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_3/lecture_3.ipynb)
 4 | [Object: Mutable/Immutable, Attributes/Methods](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_4/lecture_4.ipynb)
+5 | [Control Flows and Functions](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_5/lecture_5.ipynb)
+6 | [Class and Modules](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_6/lecture_6.ipynb)
+7 | [Introduction to Numpy](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_7/lecture_7.ipynb)
+8 | [Matplotlib and Image Processing](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_8/lecture_8.ipynb)
+9 | [Introduction to Pandas](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_9/lecture_9.ipynb)
 
 ## Textbooks and References
 There will be NO official textbook for this course. You may find the following references helpful:
 - For Basic Python Programming : [A Byte of Python](https://python.swaroopch.com/) 
 - For Machine Learning Codes in Python: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- For Machine Learning Applications and Thoeries: [An Introduction to Statistical Learning](https://statlearning.com/); [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- For Machine Learning Applications and Theories: [An Introduction to Statistical Learning](https://statlearning.com/); [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - For Deep Learning:[Deep Learning](https://www.deeplearningbook.org/)
 
 Please also check the links in our lecture notes.
