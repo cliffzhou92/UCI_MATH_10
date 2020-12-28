@@ -15,6 +15,13 @@ Math 10 serves as the introductory course in programming and machine learning al
 7 | [Introduction to Numpy](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_7/lecture_7.ipynb)
 8 | [Matplotlib and Image Processing](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_8/lecture_8.ipynb)
 9 | [Introduction to Pandas](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_9/lecture_9.ipynb)
+10 | [Overview of Machine Learning and Linear Regression](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_10/Lecture%2010.ipynb)
+11 | [Classification: Logistic Regression](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_11/Lecture%2011.ipynb)
+12 | [Classification: k-NN, Decision Tree and Random Forest](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_12/Lecture%2012.ipynb)
+13 | [Dimension Reduction: Principal Component Analysis](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_13/Lecture%2013.ipynb)
+14 | [Dimension Reduction: Manifold Learning](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_14/Lecture%2014.ipynb)
+15 | [Clustering: K-Means](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_15/Lecture%2015.ipynb)
+16 | [Neural Network and Introduction to Deep Learning](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_16/Lecture%2016.ipynb)
 
 ## Textbooks and References
 There will be NO official textbook for this course. You may find the following references helpful:
