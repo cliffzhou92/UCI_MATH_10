@@ -18,10 +18,10 @@ Math 10 serves as the introductory course in programming and machine learning al
 10 | [Machine Learning I: Overview of Machine Learning and Supervised Learning -- Linear Regression](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_10/Lecture%2010.ipynb)
 11 | [Machine Learning II: Supervised Learning -- Classification: Logistic Regression](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_11/Lecture%2011.ipynb)
 12 | [Machine Learning III: Supervised Learning -- Classification: k-NN, Decision Tree and Random Forest](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_12/Lecture%2012.ipynb)
-13 | [Machine Learning III: Unsupervised Learning -- Dimension Reduction: Principal Component Analysis](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_13/Lecture%2013.ipynb)
-14 | [Machine Learning IV: Unsupervised Learning -- Dimension Reduction: Manifold Learning](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_14/Lecture%2014.ipynb)
-15 | [Machine Learning V: Unsupervised Learning --Clustering: K-Means](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_15/Lecture%2015.ipynb)
-16 | [Machine Learning VI: Neural Network and Introduction to Deep Learning](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_16/Lecture%2016.ipynb)
+13 | [Machine Learning IV: Unsupervised Learning -- Dimension Reduction: Principal Component Analysis](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_13/Lecture%2013.ipynb)
+14 | [Machine Learning V: Unsupervised Learning -- Dimension Reduction: Manifold Learning](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_14/Lecture%2014.ipynb)
+15 | [Machine Learning VI: Unsupervised Learning --Clustering: K-Means](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_15/Lecture%2015.ipynb)
+16 | [Machine Learning VII: Neural Network and Introduction to Deep Learning](https://github.com/cliffzhou92/UCI_MATH_10/blob/master/lecture/lec_16/Lecture%2016.ipynb)
 
 ## Textbooks and References
 There will be NO official textbook for this course. You may find the following references helpful:
