@@ -28,6 +28,7 @@ There will be NO official textbook for this course. You may find the following r
 - For Basic Python Programming : [A Byte of Python](https://python.swaroopch.com/) 
 - For Machine Learning Codes in Python: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - For Machine Learning Applications and Theories: [An Introduction to Statistical Learning](https://statlearning.com/); [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+  
   *latest update*:[Probabilistic Machine Learning: An Introduction (2021 edition)](https://probml.github.io/pml-book/book1.html) by Dr. Kevin P. Murphy
 - For Deep Learning:[Deep Learning](https://www.deeplearningbook.org/)
 
