@@ -33,3 +33,9 @@ There will be NO official textbook for this course. You may find the following r
 - For Deep Learning:[Deep Learning](https://www.deeplearningbook.org/)
 
 Please also check the links in our lecture notes.
+
+## (Optional) Advanced Materials:
+For students who are already familiar with the basic course materials and aim to get A+ for this course, I suggest you to learn the following packages by yourself, discuss with me in the office hours and try to apply them in the final projects.
+- Accelerating Python/Numpy with translation into optimized machine codes: [Numba](https://numba.pydata.org/)
+- GPU realizations of data science/machine learning packages based on cuda: [cuDF](https://github.com/rapidsai/cudf) and [cuML](https://github.com/rapidsai/cuml)
+- Deep Learning Packages:[Tensorflow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/)
