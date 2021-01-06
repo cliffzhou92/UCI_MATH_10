@@ -1,7 +1,7 @@
 # UCI-MATH 10: Introduction to Programming for Data Science
 Math 10 serves as the introductory course in programming and machine learning algorithms, mainly targeted for the students with mathematical background and have interests in the Data Science specialization. In addition to the introduction of popular python data science packages (Numpy, Matplotlib, Pandas, Seaborn and Scikit-learn), this course also emphasizes the understandings of rationales underlying the programming language and machine learning algorithms.
 
-*(Updated FALL 2020)*
+*(Updated Winter 2021)*
 
 ## Lecture Notes
 **Lecture** | **Contents**
@@ -33,3 +33,10 @@ There will be NO official textbook for this course. You may find the following r
 - For Deep Learning:[Deep Learning](https://www.deeplearningbook.org/)
 
 Please also check the links in our lecture notes.
+
+## (Optional) Advanced Materials:
+For students who are already familiar with the basic course materials and aim to get A+ for this course, I suggest you to learn the following packages by yourself, discuss with me in the office hours and try to apply them in the final projects.
+- Accelerating Python/Numpy with translation into optimized machine codes: [Numba](https://numba.pydata.org/)
+- Parallel Computing: [Dask](https://dask.org/)
+- GPU realizations of data science/machine learning packages based on cuda: [cuDF](https://github.com/rapidsai/cudf) and [cuML](https://github.com/rapidsai/cuml)
+- Deep Learning Packages:[Tensorflow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/)
