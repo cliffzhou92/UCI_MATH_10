@@ -3,7 +3,6 @@
 
 # In[1]:
 
-
 class VectorV5:
     '''define the vector'''  # this is the document string
     dim = 2   # this is the attribute
